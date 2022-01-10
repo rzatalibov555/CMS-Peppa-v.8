@@ -1,0 +1,26 @@
+.toggle-on{
+    color: #fff!important;
+    background-color: #5cb85c!important;
+    border-color: #4cae4c!important;
+    
+}
+.toggle{
+    border: none!important;
+}
+.toggle-on.btn{
+    padding-right: 15px!important;
+    border:0px solid #5cb85c!important;
+}
+
+.toggle-off{
+    color: #fff!important;
+    background-color: #c9302c!important;
+    border-color: #ac2925!important;
+}
+
+.toggle-off.btn{
+    padding-left: 10px!important;
+}
+
+
+
